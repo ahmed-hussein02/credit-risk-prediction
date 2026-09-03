@@ -2,8 +2,6 @@ pandas
 numpy
 scikit-learn
 xgboost
-torch
-torchvision
 shap
 matplotlib
 seaborn
