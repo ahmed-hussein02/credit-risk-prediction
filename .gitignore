@@ -217,5 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Model files
-*.pkl
+# Model files - excluded by default, but allow specific ones for deployment
+!xgb_model.pkl
+!scaler.pkl
